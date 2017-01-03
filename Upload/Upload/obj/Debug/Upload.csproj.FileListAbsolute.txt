@@ -1,0 +1,5 @@
+D:\Test1\git-test\git-test\Upload\Upload\bin\Upload.dll
+D:\Test1\git-test\git-test\Upload\Upload\bin\Upload.pdb
+D:\Test1\git-test\git-test\Upload\Upload\obj\Debug\Upload.csprojResolveAssemblyReference.cache
+D:\Test1\git-test\git-test\Upload\Upload\obj\Debug\Upload.dll
+D:\Test1\git-test\git-test\Upload\Upload\obj\Debug\Upload.pdb
